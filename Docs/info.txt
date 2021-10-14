@@ -1,0 +1,6 @@
+Base de Datos en MontoDB Atlas.
+Usuario: user_db
+Password: 2imIUdEuraaHRU9H
+Connection: mongodb+srv://user_db:<password>@mern-app4bridge-gnq.3rrlj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+:x!
+
